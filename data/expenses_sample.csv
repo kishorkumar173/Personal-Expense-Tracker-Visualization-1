@@ -1,0 +1,201 @@
+date,category,amount,payment_method,description,year,month,month_name,year_month,day,day_name,is_weekend
+2026-06-02,Personal Care,990.0,Debit Card,Salon Haircut & Grooming Services,2026,6,Jun 2026,2026-06,2,Tuesday,False
+2026-06-04,Shopping,3330.0,UPI,Amazon Prime Shopping Order,2026,6,Jun 2026,2026-06,4,Thursday,False
+2026-06-05,Healthcare,770.0,Credit Card,Apollo Pharmacy Prescription Medicines,2026,6,Jun 2026,2026-06,5,Friday,False
+2026-06-05,Miscellaneous,471.08,Credit Card,Courier & Miscellaneous Essentials,2026,6,Jun 2026,2026-06,5,Friday,False
+2026-06-05,Food & Dining,640.0,UPI,Starbucks Cappuccino & Croissant,2026,6,Jun 2026,2026-06,5,Friday,False
+2026-06-05,Transportation,194.32,UPI,Ola Auto Commute to College/Office,2026,6,Jun 2026,2026-06,5,Friday,False
+2026-06-05,Transportation,149.26,UPI,Ola Auto Commute to College/Office,2026,6,Jun 2026,2026-06,5,Friday,False
+2026-06-06,Transportation,1170.0,UPI,Petrol Refill Shell Fuel Station,2026,6,Jun 2026,2026-06,6,Saturday,True
+2026-06-06,Food & Dining,1600.0,UPI,Blinkit Supermarket Groceries,2026,6,Jun 2026,2026-06,6,Saturday,True
+2026-06-07,Entertainment,1130.0,Cash,PVR Cinema Movie Weekend Tickets & Popcorn,2026,6,Jun 2026,2026-06,7,Sunday,True
+2026-06-07,Food & Dining,950.0,UPI,Zomato Pizza Delivery,2026,6,Jun 2026,2026-06,7,Sunday,True
+2026-06-09,Food & Dining,560.0,Credit Card,Swiggy Biryani & Dinner Order,2026,6,Jun 2026,2026-06,9,Tuesday,False
+2026-06-12,Transportation,300.35,Debit Card,Metro Smart Card Recharge,2026,6,Jun 2026,2026-06,12,Friday,False
+2026-06-14,Transportation,660.0,Cash,Uber City Cab Ride,2026,6,Jun 2026,2026-06,14,Sunday,True
+2026-06-15,Rent & Utilities,620.0,Credit Card,Piped Cooking Gas Utility Bill,2026,6,Jun 2026,2026-06,15,Monday,False
+2026-06-16,Personal Care,610.0,Credit Card,Salon Haircut & Grooming Services,2026,6,Jun 2026,2026-06,16,Tuesday,False
+2026-06-18,Personal Care,478.96,UPI,Salon Haircut & Grooming Services,2026,6,Jun 2026,2026-06,18,Thursday,False
+2026-06-19,Transportation,114.99,UPI,Ola Auto Commute to College/Office,2026,6,Jun 2026,2026-06,19,Friday,False
+2026-06-20,Personal Care,2310.0,UPI,Cult.fit Fitness & Gym Membership,2026,6,Jun 2026,2026-06,20,Saturday,True
+2026-06-20,Personal Care,1190.0,UPI,Salon Haircut & Grooming Services,2026,6,Jun 2026,2026-06,20,Saturday,True
+2026-06-20,Food & Dining,2740.0,UPI,Local Supermarket Weekly Groceries,2026,6,Jun 2026,2026-06,20,Saturday,True
+2026-06-20,Rent & Utilities,12440.0,Debit Card,Apartment Monthly Rent,2026,6,Jun 2026,2026-06,20,Saturday,True
+2026-06-21,Food & Dining,630.0,Cash,Swiggy Biryani & Dinner Order,2026,6,Jun 2026,2026-06,21,Sunday,True
+2026-06-22,Personal Care,790.0,UPI,Salon Haircut & Grooming Services,2026,6,Jun 2026,2026-06,22,Monday,False
+2026-06-25,Food & Dining,494.3,Net Banking,Swiggy Biryani & Dinner Order,2026,6,Jun 2026,2026-06,25,Thursday,False
+2026-06-27,Shopping,3050.0,Net Banking,Zara Casual Clothing Store,2026,6,Jun 2026,2026-06,27,Saturday,True
+2026-06-27,Food & Dining,650.0,Credit Card,Zomato Pizza Delivery,2026,6,Jun 2026,2026-06,27,Saturday,True
+2026-06-28,Food & Dining,630.0,UPI,Starbucks Cappuccino & Croissant,2026,6,Jun 2026,2026-06,28,Sunday,True
+2026-06-29,Food & Dining,930.0,UPI,Swiggy Biryani & Dinner Order,2026,6,Jun 2026,2026-06,29,Monday,False
+2026-07-01,Shopping,3050.0,Credit Card,Myntra Footwear & Accessories,2026,7,Jul 2026,2026-07,1,Wednesday,False
+2026-07-01,Transportation,900.0,Debit Card,Metro Smart Card Recharge,2026,7,Jul 2026,2026-07,1,Wednesday,False
+2026-07-01,Food & Dining,610.0,Credit Card,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,1,Wednesday,False
+2026-07-04,Food & Dining,1300.0,Credit Card,Blinkit Supermarket Groceries,2026,7,Jul 2026,2026-07,4,Saturday,True
+2026-07-06,Entertainment,1580.0,UPI,PVR Cinema Movie Weekend Tickets & Popcorn,2026,7,Jul 2026,2026-07,6,Monday,False
+2026-07-06,Transportation,183.55,Credit Card,Ola Auto Commute to College/Office,2026,7,Jul 2026,2026-07,6,Monday,False
+2026-07-07,Food & Dining,1120.0,Debit Card,Zomato Pizza Delivery,2026,7,Jul 2026,2026-07,7,Tuesday,False
+2026-07-07,Shopping,2650.0,Credit Card,Myntra Footwear & Accessories,2026,7,Jul 2026,2026-07,7,Tuesday,False
+2026-07-07,Food & Dining,418.68,Credit Card,Zomato Pizza Delivery,2026,7,Jul 2026,2026-07,7,Tuesday,False
+2026-07-07,Food & Dining,340.34,Credit Card,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,7,Tuesday,False
+2026-07-08,Food & Dining,335.73,UPI,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,8,Wednesday,False
+2026-07-11,Transportation,2480.0,UPI,Petrol Refill Shell Fuel Station,2026,7,Jul 2026,2026-07,11,Saturday,True
+2026-07-13,Shopping,2120.0,Debit Card,Amazon Prime Shopping Order,2026,7,Jul 2026,2026-07,13,Monday,False
+2026-07-14,Healthcare,1060.0,UPI,Apollo Pharmacy Prescription Medicines,2026,7,Jul 2026,2026-07,14,Tuesday,False
+2026-07-14,Entertainment,179.0,Credit Card,Spotify Premium Music Family Plan,2026,7,Jul 2026,2026-07,14,Tuesday,False
+2026-07-14,Entertainment,800.0,UPI,Steam Game Festival Purchase,2026,7,Jul 2026,2026-07,14,Tuesday,False
+2026-07-15,Entertainment,650.0,Cash,Netflix Monthly Premium Subscription,2026,7,Jul 2026,2026-07,15,Wednesday,False
+2026-07-16,Healthcare,1660.0,UPI,Dental Checkup & Cleaning Consultation,2026,7,Jul 2026,2026-07,16,Thursday,False
+2026-07-18,Transportation,640.0,Credit Card,Petrol Refill Shell Fuel Station,2026,7,Jul 2026,2026-07,18,Saturday,True
+2026-07-18,Shopping,770.0,Credit Card,Myntra Footwear & Accessories,2026,7,Jul 2026,2026-07,18,Saturday,True
+2026-07-18,Transportation,395.92,Credit Card,Uber City Cab Ride,2026,7,Jul 2026,2026-07,18,Saturday,True
+2026-07-19,Food & Dining,650.0,UPI,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,19,Sunday,True
+2026-07-19,Food & Dining,477.69,Cash,Starbucks Cappuccino & Croissant,2026,7,Jul 2026,2026-07,19,Sunday,True
+2026-07-20,Entertainment,1240.0,UPI,PVR Cinema Movie Weekend Tickets & Popcorn,2026,7,Jul 2026,2026-07,20,Monday,False
+2026-07-21,Transportation,200.88,Debit Card,Ola Auto Commute to College/Office,2026,7,Jul 2026,2026-07,21,Tuesday,False
+2026-07-22,Transportation,116.66,Debit Card,Ola Auto Commute to College/Office,2026,7,Jul 2026,2026-07,22,Wednesday,False
+2026-07-22,Entertainment,1210.0,UPI,Steam Game Festival Purchase,2026,7,Jul 2026,2026-07,22,Wednesday,False
+2026-07-24,Food & Dining,760.0,Credit Card,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,24,Friday,False
+2026-07-24,Shopping,2580.0,Cash,Zara Casual Clothing Store,2026,7,Jul 2026,2026-07,24,Friday,False
+2026-07-24,Education,1020.0,UPI,Udemy Python & Data Engineering Course,2026,7,Jul 2026,2026-07,24,Friday,False
+2026-07-25,Education,1760.0,UPI,Technical Books & College Stationery,2026,7,Jul 2026,2026-07,25,Saturday,True
+2026-07-27,Entertainment,1640.0,Credit Card,Steam Game Festival Purchase,2026,7,Jul 2026,2026-07,27,Monday,False
+2026-07-27,Transportation,720.0,UPI,Uber City Cab Ride,2026,7,Jul 2026,2026-07,27,Monday,False
+2026-07-28,Rent & Utilities,1160.0,UPI,Airtel Fiber Broadband Internet Bill,2026,7,Jul 2026,2026-07,28,Tuesday,False
+2026-07-29,Transportation,2280.0,UPI,Petrol Refill Shell Fuel Station,2026,7,Jul 2026,2026-07,29,Wednesday,False
+2026-07-29,Food & Dining,1120.0,Credit Card,Blinkit Supermarket Groceries,2026,7,Jul 2026,2026-07,29,Wednesday,False
+2026-07-30,Food & Dining,440.85,UPI,Swiggy Biryani & Dinner Order,2026,7,Jul 2026,2026-07,30,Thursday,False
+2026-07-30,Transportation,242.17,Credit Card,Ola Auto Commute to College/Office,2026,7,Jul 2026,2026-07,30,Thursday,False
+2026-08-01,Transportation,640.0,UPI,Uber City Cab Ride,2026,8,Aug 2026,2026-08,1,Saturday,True
+2026-08-02,Transportation,1040.0,Cash,Petrol Refill Shell Fuel Station,2026,8,Aug 2026,2026-08,2,Sunday,True
+2026-08-02,Shopping,1580.0,Cash,Myntra Footwear & Accessories,2026,8,Aug 2026,2026-08,2,Sunday,True
+2026-08-02,Rent & Utilities,12130.0,Cash,Apartment Monthly Rent,2026,8,Aug 2026,2026-08,2,Sunday,True
+2026-08-02,Shopping,2970.0,Cash,Myntra Footwear & Accessories,2026,8,Aug 2026,2026-08,2,Sunday,True
+2026-08-02,Personal Care,1540.0,UPI,Cult.fit Fitness & Gym Membership,2026,8,Aug 2026,2026-08,2,Sunday,True
+2026-08-03,Food & Dining,620.0,Credit Card,Starbucks Cappuccino & Croissant,2026,8,Aug 2026,2026-08,3,Monday,False
+2026-08-04,Rent & Utilities,1530.0,UPI,State Electricity Board Power Bill,2026,8,Aug 2026,2026-08,4,Tuesday,False
+2026-08-04,Entertainment,1540.0,UPI,PVR Cinema Movie Weekend Tickets & Popcorn,2026,8,Aug 2026,2026-08,4,Tuesday,False
+2026-08-04,Food & Dining,560.0,UPI,Swiggy Biryani & Dinner Order,2026,8,Aug 2026,2026-08,4,Tuesday,False
+2026-08-05,Transportation,201.97,Credit Card,Ola Auto Commute to College/Office,2026,8,Aug 2026,2026-08,5,Wednesday,False
+2026-08-05,Food & Dining,3380.0,UPI,Local Supermarket Weekly Groceries,2026,8,Aug 2026,2026-08,5,Wednesday,False
+2026-08-08,Education,1070.0,UPI,Technical Books & College Stationery,2026,8,Aug 2026,2026-08,8,Saturday,True
+2026-08-09,Miscellaneous,610.0,Credit Card,Courier & Miscellaneous Essentials,2026,8,Aug 2026,2026-08,9,Sunday,True
+2026-08-09,Shopping,6350.0,UPI,Flipkart Electronic Gadget,2026,8,Aug 2026,2026-08,9,Sunday,True
+2026-08-10,Transportation,740.0,UPI,Uber City Cab Ride,2026,8,Aug 2026,2026-08,10,Monday,False
+2026-08-11,Personal Care,428.03,Credit Card,Salon Haircut & Grooming Services,2026,8,Aug 2026,2026-08,11,Tuesday,False
+2026-08-11,Transportation,890.0,UPI,Metro Smart Card Recharge,2026,8,Aug 2026,2026-08,11,Tuesday,False
+2026-08-11,Transportation,148.93,Credit Card,Ola Auto Commute to College/Office,2026,8,Aug 2026,2026-08,11,Tuesday,False
+2026-08-13,Transportation,680.0,Cash,Uber City Cab Ride,2026,8,Aug 2026,2026-08,13,Thursday,False
+2026-08-13,Food & Dining,940.0,Debit Card,Swiggy Biryani & Dinner Order,2026,8,Aug 2026,2026-08,13,Thursday,False
+2026-08-15,Transportation,830.0,Cash,Metro Smart Card Recharge,2026,8,Aug 2026,2026-08,15,Saturday,True
+2026-08-17,Food & Dining,332.71,Debit Card,Swiggy Biryani & Dinner Order,2026,8,Aug 2026,2026-08,17,Monday,False
+2026-08-17,Transportation,210.24,Credit Card,Ola Auto Commute to College/Office,2026,8,Aug 2026,2026-08,17,Monday,False
+2026-08-18,Food & Dining,471.53,UPI,Starbucks Cappuccino & Croissant,2026,8,Aug 2026,2026-08,18,Tuesday,False
+2026-08-18,Rent & Utilities,510.0,Credit Card,Piped Cooking Gas Utility Bill,2026,8,Aug 2026,2026-08,18,Tuesday,False
+2026-08-18,Entertainment,1230.0,Net Banking,PVR Cinema Movie Weekend Tickets & Popcorn,2026,8,Aug 2026,2026-08,18,Tuesday,False
+2026-08-19,Healthcare,2400.0,UPI,Dental Checkup & Cleaning Consultation,2026,8,Aug 2026,2026-08,19,Wednesday,False
+2026-08-20,Transportation,96.53,UPI,Ola Auto Commute to College/Office,2026,8,Aug 2026,2026-08,20,Thursday,False
+2026-08-20,Healthcare,630.0,Credit Card,Apollo Pharmacy Prescription Medicines,2026,8,Aug 2026,2026-08,20,Thursday,False
+2026-08-21,Shopping,1730.0,UPI,Amazon Prime Shopping Order,2026,8,Aug 2026,2026-08,21,Friday,False
+2026-08-22,Miscellaneous,148.88,UPI,Courier & Miscellaneous Essentials,2026,8,Aug 2026,2026-08,22,Saturday,True
+2026-08-24,Shopping,1970.0,Debit Card,Amazon Prime Shopping Order,2026,8,Aug 2026,2026-08,24,Monday,False
+2026-08-25,Shopping,4360.0,Net Banking,Zara Casual Clothing Store,2026,8,Aug 2026,2026-08,25,Tuesday,False
+2026-08-26,Food & Dining,453.27,UPI,Swiggy Biryani & Dinner Order,2026,8,Aug 2026,2026-08,26,Wednesday,False
+2026-08-27,Personal Care,960.0,Credit Card,Salon Haircut & Grooming Services,2026,8,Aug 2026,2026-08,27,Thursday,False
+2026-08-29,Transportation,650.0,Credit Card,Uber City Cab Ride,2026,8,Aug 2026,2026-08,29,Saturday,True
+2026-08-30,Food & Dining,3110.0,UPI,Blinkit Supermarket Groceries,2026,8,Aug 2026,2026-08,30,Sunday,True
+2026-08-31,Transportation,241.48,Net Banking,Ola Auto Commute to College/Office,2026,8,Aug 2026,2026-08,31,Monday,False
+2026-09-01,Food & Dining,1220.0,Debit Card,Local Supermarket Weekly Groceries,2026,9,Sep 2026,2026-09,1,Tuesday,False
+2026-09-01,Transportation,630.0,Credit Card,Metro Smart Card Recharge,2026,9,Sep 2026,2026-09,1,Tuesday,False
+2026-09-01,Food & Dining,4380.0,UPI,Local Supermarket Weekly Groceries,2026,9,Sep 2026,2026-09,1,Tuesday,False
+2026-09-02,Food & Dining,610.0,Debit Card,Starbucks Cappuccino & Croissant,2026,9,Sep 2026,2026-09,2,Wednesday,False
+2026-09-02,Food & Dining,366.38,UPI,Swiggy Biryani & Dinner Order,2026,9,Sep 2026,2026-09,2,Wednesday,False
+2026-09-03,Entertainment,970.0,Debit Card,PVR Cinema Movie Weekend Tickets & Popcorn,2026,9,Sep 2026,2026-09,3,Thursday,False
+2026-09-04,Shopping,1440.0,Credit Card,Amazon Prime Shopping Order,2026,9,Sep 2026,2026-09,4,Friday,False
+2026-09-06,Food & Dining,950.0,Debit Card,Swiggy Biryani & Dinner Order,2026,9,Sep 2026,2026-09,6,Sunday,True
+2026-09-07,Transportation,1260.0,Cash,Petrol Refill Shell Fuel Station,2026,9,Sep 2026,2026-09,7,Monday,False
+2026-09-08,Miscellaneous,205.11,Debit Card,Courier & Miscellaneous Essentials,2026,9,Sep 2026,2026-09,8,Tuesday,False
+2026-09-10,Shopping,1310.0,Credit Card,Zara Casual Clothing Store,2026,9,Sep 2026,2026-09,10,Thursday,False
+2026-09-11,Transportation,600.0,UPI,Uber City Cab Ride,2026,9,Sep 2026,2026-09,11,Friday,False
+2026-09-12,Transportation,379.98,UPI,Uber City Cab Ride,2026,9,Sep 2026,2026-09,12,Saturday,True
+2026-09-14,Transportation,352.73,UPI,Uber City Cab Ride,2026,9,Sep 2026,2026-09,14,Monday,False
+2026-09-15,Food & Dining,840.0,Cash,Swiggy Biryani & Dinner Order,2026,9,Sep 2026,2026-09,15,Tuesday,False
+2026-09-15,Transportation,810.0,Cash,Metro Smart Card Recharge,2026,9,Sep 2026,2026-09,15,Tuesday,False
+2026-09-16,Food & Dining,4350.0,UPI,Local Supermarket Weekly Groceries,2026,9,Sep 2026,2026-09,16,Wednesday,False
+2026-09-18,Personal Care,760.0,UPI,Salon Haircut & Grooming Services,2026,9,Sep 2026,2026-09,18,Friday,False
+2026-09-19,Food & Dining,2270.0,UPI,Blinkit Supermarket Groceries,2026,9,Sep 2026,2026-09,19,Saturday,True
+2026-09-20,Shopping,2230.0,UPI,Amazon Prime Shopping Order,2026,9,Sep 2026,2026-09,20,Sunday,True
+2026-09-21,Transportation,900.0,UPI,Metro Smart Card Recharge,2026,9,Sep 2026,2026-09,21,Monday,False
+2026-09-21,Transportation,620.0,Debit Card,Uber City Cab Ride,2026,9,Sep 2026,2026-09,21,Monday,False
+2026-09-22,Entertainment,179.0,Debit Card,Spotify Premium Music Family Plan,2026,9,Sep 2026,2026-09,22,Tuesday,False
+2026-09-25,Miscellaneous,431.43,Debit Card,Courier & Miscellaneous Essentials,2026,9,Sep 2026,2026-09,25,Friday,False
+2026-09-25,Personal Care,920.0,Debit Card,Salon Haircut & Grooming Services,2026,9,Sep 2026,2026-09,25,Friday,False
+2026-09-25,Shopping,2450.0,UPI,Myntra Footwear & Accessories,2026,9,Sep 2026,2026-09,25,Friday,False
+2026-09-26,Transportation,630.0,UPI,Metro Smart Card Recharge,2026,9,Sep 2026,2026-09,26,Saturday,True
+2026-09-27,Food & Dining,1910.0,Credit Card,Blinkit Supermarket Groceries,2026,9,Sep 2026,2026-09,27,Sunday,True
+2026-09-30,Education,1190.0,UPI,Udemy Python & Data Engineering Course,2026,9,Sep 2026,2026-09,30,Wednesday,False
+2026-09-30,Entertainment,1150.0,Credit Card,PVR Cinema Movie Weekend Tickets & Popcorn,2026,9,Sep 2026,2026-09,30,Wednesday,False
+2026-10-01,Transportation,139.51,Debit Card,Ola Auto Commute to College/Office,2026,10,Oct 2026,2026-10,1,Thursday,False
+2026-10-02,Personal Care,2100.0,UPI,Cult.fit Fitness & Gym Membership,2026,10,Oct 2026,2026-10,2,Friday,False
+2026-10-03,Shopping,2370.0,Debit Card,Amazon Prime Shopping Order,2026,10,Oct 2026,2026-10,3,Saturday,True
+2026-10-03,Shopping,3480.0,UPI,Zara Casual Clothing Store,2026,10,Oct 2026,2026-10,3,Saturday,True
+2026-10-06,Rent & Utilities,2140.0,Debit Card,State Electricity Board Power Bill,2026,10,Oct 2026,2026-10,6,Tuesday,False
+2026-10-06,Entertainment,650.0,UPI,Netflix Monthly Premium Subscription,2026,10,Oct 2026,2026-10,6,Tuesday,False
+2026-10-07,Food & Dining,425.1,UPI,Starbucks Cappuccino & Croissant,2026,10,Oct 2026,2026-10,7,Wednesday,False
+2026-10-10,Shopping,4260.0,UPI,Zara Casual Clothing Store,2026,10,Oct 2026,2026-10,10,Saturday,True
+2026-10-10,Personal Care,450.02,UPI,Salon Haircut & Grooming Services,2026,10,Oct 2026,2026-10,10,Saturday,True
+2026-10-15,Transportation,207.56,UPI,Uber City Cab Ride,2026,10,Oct 2026,2026-10,15,Thursday,False
+2026-10-15,Food & Dining,1350.0,Credit Card,Local Supermarket Weekly Groceries,2026,10,Oct 2026,2026-10,15,Thursday,False
+2026-10-15,Food & Dining,670.0,UPI,Zomato Pizza Delivery,2026,10,Oct 2026,2026-10,15,Thursday,False
+2026-10-16,Food & Dining,920.0,UPI,Zomato Pizza Delivery,2026,10,Oct 2026,2026-10,16,Friday,False
+2026-10-16,Entertainment,720.0,Credit Card,PVR Cinema Movie Weekend Tickets & Popcorn,2026,10,Oct 2026,2026-10,16,Friday,False
+2026-10-16,Food & Dining,4080.0,UPI,Local Supermarket Weekly Groceries,2026,10,Oct 2026,2026-10,16,Friday,False
+2026-10-17,Healthcare,397.07,UPI,Apollo Pharmacy Prescription Medicines,2026,10,Oct 2026,2026-10,17,Saturday,True
+2026-10-17,Transportation,369.38,Credit Card,Uber City Cab Ride,2026,10,Oct 2026,2026-10,17,Saturday,True
+2026-10-17,Food & Dining,740.0,Credit Card,Zomato Pizza Delivery,2026,10,Oct 2026,2026-10,17,Saturday,True
+2026-10-17,Transportation,760.0,Debit Card,Metro Smart Card Recharge,2026,10,Oct 2026,2026-10,17,Saturday,True
+2026-10-18,Food & Dining,4380.0,Credit Card,Local Supermarket Weekly Groceries,2026,10,Oct 2026,2026-10,18,Sunday,True
+2026-10-19,Shopping,990.0,Credit Card,Amazon Prime Shopping Order,2026,10,Oct 2026,2026-10,19,Monday,False
+2026-10-19,Miscellaneous,367.51,Credit Card,Courier & Miscellaneous Essentials,2026,10,Oct 2026,2026-10,19,Monday,False
+2026-10-19,Healthcare,2430.0,UPI,Diagnostic Lab Blood Work & Tests,2026,10,Oct 2026,2026-10,19,Monday,False
+2026-10-20,Food & Dining,1370.0,UPI,Blinkit Supermarket Groceries,2026,10,Oct 2026,2026-10,20,Tuesday,False
+2026-10-20,Transportation,88.02,UPI,Ola Auto Commute to College/Office,2026,10,Oct 2026,2026-10,20,Tuesday,False
+2026-10-23,Education,1250.0,Credit Card,Udemy Python & Data Engineering Course,2026,10,Oct 2026,2026-10,23,Friday,False
+2026-10-24,Food & Dining,590.0,UPI,Swiggy Biryani & Dinner Order,2026,10,Oct 2026,2026-10,24,Saturday,True
+2026-10-25,Food & Dining,900.0,UPI,Swiggy Biryani & Dinner Order,2026,10,Oct 2026,2026-10,25,Sunday,True
+2026-10-26,Food & Dining,423.54,UPI,Starbucks Cappuccino & Croissant,2026,10,Oct 2026,2026-10,26,Monday,False
+2026-10-27,Food & Dining,493.35,Cash,Zomato Pizza Delivery,2026,10,Oct 2026,2026-10,27,Tuesday,False
+2026-10-28,Food & Dining,840.0,UPI,Swiggy Biryani & Dinner Order,2026,10,Oct 2026,2026-10,28,Wednesday,False
+2026-10-29,Rent & Utilities,1450.0,UPI,State Electricity Board Power Bill,2026,10,Oct 2026,2026-10,29,Thursday,False
+2026-10-31,Food & Dining,408.14,UPI,Zomato Pizza Delivery,2026,10,Oct 2026,2026-10,31,Saturday,True
+2026-10-31,Entertainment,990.0,UPI,Steam Game Festival Purchase,2026,10,Oct 2026,2026-10,31,Saturday,True
+2026-10-31,Food & Dining,820.0,Credit Card,Swiggy Biryani & Dinner Order,2026,10,Oct 2026,2026-10,31,Saturday,True
+2026-11-02,Food & Dining,3890.0,Credit Card,Local Supermarket Weekly Groceries,2026,11,Nov 2026,2026-11,2,Monday,False
+2026-11-02,Food & Dining,1180.0,UPI,Blinkit Supermarket Groceries,2026,11,Nov 2026,2026-11,2,Monday,False
+2026-11-02,Food & Dining,570.0,Debit Card,Starbucks Cappuccino & Croissant,2026,11,Nov 2026,2026-11,2,Monday,False
+2026-11-03,Entertainment,870.0,UPI,PVR Cinema Movie Weekend Tickets & Popcorn,2026,11,Nov 2026,2026-11,3,Tuesday,False
+2026-11-05,Entertainment,650.0,Credit Card,Netflix Monthly Premium Subscription,2026,11,Nov 2026,2026-11,5,Thursday,False
+2026-11-05,Food & Dining,880.0,UPI,Swiggy Biryani & Dinner Order,2026,11,Nov 2026,2026-11,5,Thursday,False
+2026-11-06,Healthcare,1440.0,UPI,Apollo Pharmacy Prescription Medicines,2026,11,Nov 2026,2026-11,6,Friday,False
+2026-11-07,Transportation,236.22,Credit Card,Ola Auto Commute to College/Office,2026,11,Nov 2026,2026-11,7,Saturday,True
+2026-11-07,Personal Care,560.0,Cash,Salon Haircut & Grooming Services,2026,11,Nov 2026,2026-11,7,Saturday,True
+2026-11-09,Food & Dining,328.65,Net Banking,Starbucks Cappuccino & Croissant,2026,11,Nov 2026,2026-11,9,Monday,False
+2026-11-09,Food & Dining,4340.0,UPI,Local Supermarket Weekly Groceries,2026,11,Nov 2026,2026-11,9,Monday,False
+2026-11-09,Miscellaneous,520.0,Debit Card,Courier & Miscellaneous Essentials,2026,11,Nov 2026,2026-11,9,Monday,False
+2026-11-09,Food & Dining,1960.0,UPI,Blinkit Supermarket Groceries,2026,11,Nov 2026,2026-11,9,Monday,False
+2026-11-12,Education,720.0,Credit Card,Udemy Python & Data Engineering Course,2026,11,Nov 2026,2026-11,12,Thursday,False
+2026-11-13,Shopping,2830.0,Cash,Myntra Footwear & Accessories,2026,11,Nov 2026,2026-11,13,Friday,False
+2026-11-14,Rent & Utilities,2030.0,Debit Card,State Electricity Board Power Bill,2026,11,Nov 2026,2026-11,14,Saturday,True
+2026-11-14,Healthcare,700.0,UPI,Apollo Pharmacy Prescription Medicines,2026,11,Nov 2026,2026-11,14,Saturday,True
+2026-11-15,Personal Care,372.86,UPI,Salon Haircut & Grooming Services,2026,11,Nov 2026,2026-11,15,Sunday,True
+2026-11-15,Entertainment,650.0,UPI,Netflix Monthly Premium Subscription,2026,11,Nov 2026,2026-11,15,Sunday,True
+2026-11-16,Entertainment,1000.0,Cash,PVR Cinema Movie Weekend Tickets & Popcorn,2026,11,Nov 2026,2026-11,16,Monday,False
+2026-11-16,Healthcare,2010.0,UPI,Diagnostic Lab Blood Work & Tests,2026,11,Nov 2026,2026-11,16,Monday,False
+2026-11-17,Food & Dining,700.0,UPI,Zomato Pizza Delivery,2026,11,Nov 2026,2026-11,17,Tuesday,False
+2026-11-18,Food & Dining,2270.0,Cash,Local Supermarket Weekly Groceries,2026,11,Nov 2026,2026-11,18,Wednesday,False
+2026-11-18,Rent & Utilities,14960.0,UPI,Apartment Monthly Rent,2026,11,Nov 2026,2026-11,18,Wednesday,False
+2026-11-19,Transportation,1160.0,UPI,Petrol Refill Shell Fuel Station,2026,11,Nov 2026,2026-11,19,Thursday,False
+2026-11-19,Transportation,223.17,Net Banking,Ola Auto Commute to College/Office,2026,11,Nov 2026,2026-11,19,Thursday,False
+2026-11-19,Transportation,640.0,UPI,Uber City Cab Ride,2026,11,Nov 2026,2026-11,19,Thursday,False
+2026-11-20,Education,980.0,Credit Card,Technical Books & College Stationery,2026,11,Nov 2026,2026-11,20,Friday,False
+2026-11-20,Entertainment,610.0,Debit Card,PVR Cinema Movie Weekend Tickets & Popcorn,2026,11,Nov 2026,2026-11,20,Friday,False

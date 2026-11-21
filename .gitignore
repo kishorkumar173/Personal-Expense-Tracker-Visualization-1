@@ -1,0 +1,37 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# SQLite database local file
+*.sqlite3
+*.db
+
+# Streamlit config and runtime
+.streamlit/
+.streamlit/secrets.toml
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Output exports (keep folder structure via .gitkeep)
+outputs/*.png
+reports/*.txt
+reports/*.csv
+!outputs/.gitkeep
+!reports/.gitkeep
