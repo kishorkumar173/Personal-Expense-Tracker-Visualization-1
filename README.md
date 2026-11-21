@@ -1,11 +1,6 @@
 # 💰 Personal Expense Tracker with Data Visualization
 
-[![Python](https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
-[![Framework](https://img.shields.io/badge/Streamlit-1.40%2B-FF4B4B.svg)](https://streamlit.io/)
-[![Database](https://img.shields.io/badge/SQLite-ACID%20Compliant-003B57.svg)](https://www.sqlite.org/)
-[![Data Processing](https://img.shields.io/badge/Pandas-DataFrames-150458.svg)](https://pandas.pydata.org/)
-[![Visualization](https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-High%20Res-orange.svg)](https://matplotlib.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 
 An end-to-end, industry-oriented personal finance analytics platform and interactive web application built with **Python, Pandas, SQLite, Seaborn, Matplotlib, and Streamlit**. It automates expense ingestion, applies rule-based heuristic auto-categorization, calculates Month-over-Month (MoM) cashflow velocity, audits budget-to-actual variances, renders publication-grade visualizations, and exports executive financial health audit reports.
 
